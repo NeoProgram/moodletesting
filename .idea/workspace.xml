@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd34d64b-7cc6-47f9-ac47-20c7bf239826" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/theme/hfel/scss/post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/hfel/scss/pre.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/hfel/settings.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/hfel/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/hfel/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/hfel/lang/en/theme_hfel.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/hfel/lang/en/theme_hfel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/hfel/lib.php" beforeDir="false" afterPath="$PROJECT_DIR$/theme/hfel/lib.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +35,11 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/theme/hfel/pix" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="C:\xampp\htdocs\moodle\node_modules\stylelint" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
