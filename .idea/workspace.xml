@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd34d64b-7cc6-47f9-ac47-20c7bf239826" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/theme/hfel/templates/block_myoverview/nav-grouping-selector.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/hfel/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/hfel/renderers.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/renderer.php" beforeDir="false" afterPath="$PROJECT_DIR$/course/renderer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/hfel/scss/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/theme/hfel/scss/post.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/theme/hfel/scss/pre.scss" beforeDir="false" afterPath="$PROJECT_DIR$/theme/hfel/scss/pre.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +13,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -56,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616436566652</updated>
       <workItem from="1616436568466" duration="10083000" />
+      <workItem from="1617008653257" duration="6183000" />
     </task>
     <servers />
   </component>
@@ -72,5 +74,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

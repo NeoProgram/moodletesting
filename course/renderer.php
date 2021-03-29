@@ -946,6 +946,7 @@ class core_course_renderer extends plugin_renderer_base {
         $output .= html_writer::end_tag('div');
 
         $output .= html_writer::end_tag('div');
+
         return $output;
     }
 
