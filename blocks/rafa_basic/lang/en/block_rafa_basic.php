@@ -15,11 +15,11 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'block_myprofile', language 'en', branch 'MOODLE_20_STABLE'
+ * Strings for component 'block_rafa_basic', language 'en', branch 'MOODLE_20_STABLE'
  *
- * @package    block_myprofile
- * @copyright  2010 Remote-Learner.net
- * @author     Olav Jordan <olav.jordan@remote-learner.ca>
+ * @package    block_rafa_basic
+ * @copyright  2021 Rafael Sarmiento
+ * @author     Rafael Sarmiento
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

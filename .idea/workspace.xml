@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd34d64b-7cc6-47f9-ac47-20c7bf239826" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/rafa_basic/block_rafa_basic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/rafa_basic/db/access.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/rafa_basic/lang/en/block_rafa_basic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/rafa_basic/lang/en/deprecated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/rafa_basic/version.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/hello_world/block_hello_world.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/hello_world/db/access.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/hello_world/lang/en/block_hello_world.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/hello_world/lang/en/deprecated.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/hello_world/version.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/rafa_basic/block_rafa_basic.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/rafa_basic/block_rafa_basic.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/rafa_basic/lang/en/block_rafa_basic.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/rafa_basic/lang/en/block_rafa_basic.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blocks/rafa_basic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blocks" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,6 +46,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\moodle\blocks" />
       <recent name="C:\xampp\htdocs\moodle\blocks\rafa_basic" />
       <recent name="C:\xampp\htdocs\moodle\theme\hfel\templates\block_myoverview" />
       <recent name="C:\xampp\htdocs\moodle" />
@@ -60,7 +63,8 @@
       <updated>1616436566652</updated>
       <workItem from="1616436568466" duration="10083000" />
       <workItem from="1617008653257" duration="10171000" />
-      <workItem from="1617100058866" duration="4279000" />
+      <workItem from="1617100058866" duration="5250000" />
+      <workItem from="1617121500904" duration="6146000" />
     </task>
     <servers />
   </component>

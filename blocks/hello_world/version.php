@@ -15,13 +15,9 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Block displaying information about current logged-in user.
+ * Hello_World basic info block.
  *
- * This block can be used as anti cheating measure, you
- * can easily check the logged-in user matches the person
- * operating the computer.
- *
- * @package    block_rafa_basic
+ * @package    block_hello_world
  * @copyright  2021 Rafael Sarmiento
  * @author     Rafael Sarmiento
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -29,18 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-/**
- * Displays the current user's profile information.
- *
- * @copyright  2021 Rafael Sarmiento
- * @author     Rafael Sarmiento
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
-class block_rafa_basic extends block_base {
-    /**
-     * block initializations
-     */
-    public function init() {
-        $this->title = get_string('pluginname', 'block_rafa_basic');
-    }
-}
+$plugin->version   = 2020110901;        // The current plugin version (Date: YYYYMMDDXX)
+$plugin->requires  = 2020110300;        // Requires this Moodle version
+$plugin->component = 'block_hello_world'; // Full name of the plugin (used for diagnostics)
